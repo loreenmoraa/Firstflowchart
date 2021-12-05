@@ -1,6 +1,21 @@
 img {
   width:350px;
   height: 350px;
-  float: left;
-  margin-left: 3pc;
+  float: right;
+  margin-left: 6pc;
+  margin-top: 20px;
+  margin-bottom: 3px;
 }
+.body {
+  margin: 5pc;
+  font-size: 17px;
+  font-style: oblique;
+  background-color: rgb(244, 247, 247);
+}
+
+.content {
+  font-size: 14px;
+  text-align: center;
+  margin: 4pc;
+  background-color:lightgray;
+  }
