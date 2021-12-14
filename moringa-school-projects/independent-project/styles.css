@@ -12,6 +12,7 @@ img {
   font-family: Calibri;
   background-color: #ffffff;
   display: block;
+  background-image: url("images/background.jpg");
 }
 
 .content {
