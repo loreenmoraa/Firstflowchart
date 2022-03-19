@@ -22,6 +22,5 @@ img {
   background-color:lightgray;
   }
 
-}
-@media(max-width:640) { 
+@media screen and (max-width:640) { 
 }
